@@ -1,34 +1,21 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Lucas1792003/Lucas1792003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://komarev.com/ghpvc/?username=Lucas1792003&color=brightgreen)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lucas1792003.Lucas1792003" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wai+Yan+Paing!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Thailand 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Thailand <br>Currently studying at Assumpstion University</h3>
 
 <br/>
 
 <div align="center">
  
- 
- 
- 🌱 I’m currently learning **React and Node.js**
+  🌱 I’m currently learning **React and Node.js**
+
+ 🔭 I’m currently working on **MyatPwint project as Senior Project 2**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Lucas1792003/Lucas1792003/issues)**
 
@@ -43,42 +30,145 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/lucas-wai179" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Lucas1792003.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql" /><br>
-</div>
+```
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lucas1792003/Lucas1792003/output/github-contribution-grid-snake.svg" />
+## 📚 Blogs & Links
+- 🌐 Portfolio: **[Portfolio (GitHub Pages)](https://lucas1792003.github.io/Portfolio/)**
+- 🕹 Java/C# Games & more: **[All repositories](https://github.com/Lucas1792003?tab=repositories)**
+
+---
+
+## 📌 Latest Projects
+- 🔢 **MyatPwint** → live build & source  
+  Live: https://myatpwint-pre.netlify.app/  
+  Code: https://github.com/byte-squad-abac/myatpwint
+- 🐾 **Pawsitive** → pet-themed site (HTML/CSS) ⭐  
+  https://github.com/Lucas1792003/Pawsitive
+- 🌐 **waiyanpaing.github.io** → web app dev exercises / portfolio playground  
+  https://github.com/Lucas1792003/waiyanpaing.github.io
+- 🎮 **Game-dev-** → C# game-dev experiments  
+  https://github.com/Lucas1792003/Game-dev-
   
-  <br/><br/><br/>
-</div>
+> More: · Birthday-Countdown · special-person · Fundamental-of-Programming (Jupyter) · Data-StructuresAlgorithms · Portfolio · OOCP-Java-
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Lucas1792003.vercel.app/?user=Lucas1792003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Lucas1792003.vercel.app/api?username=Lucas1792003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Lucas1792003.vercel.app/api/top-langs/?username=Lucas1792003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-<br/><br/>
+<h2 align="center">💻 Programming Languages & Tools</h2>
 
-<hr/>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/>
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="48" height="48" alt="ReactBootstrap"/><br/>
+      <sub>ReactBootstrap</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br/>
+      <sub>Figma</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/><br/>
+      <sub>Canva</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/><br/>
+      <sub>Supabase</sub>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas1792003&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌟 Highlight Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byte-squad-abac&repo=myatpwint&theme=tokyonight)](https://github.com/byte-squad-abac/myatpwint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=waiyanpaing.github.io&theme=tokyonight)](https://github.com/Lucas1792003/waiyanpaing.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Software-Testing-Car-Rental-Partial-Project&theme=tokyonight)](https://github.com/Lucas1792003/Software-Testing-Car-Rental-Partial-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Pawsitive&theme=tokyonight)](https://github.com/Lucas1792003/Pawsitive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=birthday-Countdown&theme=tokyonight)](https://github.com/Lucas1792003/Birthday-Countdown)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Lucas1792003&theme=tokyonight)
+
+---
+
+## 📅 Contribution Graph
+![snake gif](https://github.com/Lucas1792003/Lucas1792003/blob/output/github-contribution-grid-snake.svg)
+
+---
