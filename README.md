@@ -38,12 +38,15 @@
 ---
 
 ## 📚 Blogs & Links
-- 🌐 Portfolio: **[Portfolio (GitHub Pages)](https://lucas1792003.github.io/Portfolio/)**
+- 🌐 Portfolio: **[Portfolio (GitHub Pages)](https://lucas1792003.github.io/Portfolio-2025/)**
 - 🕹 Java/C# Games & more: **[All repositories](https://github.com/Lucas1792003?tab=repositories)**
 
 ---
 
 ## 📌 Latest Projects
+- 🔢 **Portfolio** → My latest Portfolio Page  
+  Live: https://lucas1792003.github.io/Portfolio-2025/  
+  Code: https://github.com/Lucas1792003/Portfolio-2025
 - 🔢 **MyatPwint** → live build & source  
   Live: https://myatpwint-pre.netlify.app/  
   Code: https://github.com/byte-squad-abac/myatpwint
@@ -149,6 +152,7 @@
 ---
 
 ## 🌟 Highlight Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Portfolio-2025&theme=tokyonight)](https://github.com/Lucas1792003/Portfolio-2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byte-squad-abac&repo=myatpwint&theme=tokyonight)](https://github.com/byte-squad-abac/myatpwint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=waiyanpaing.github.io&theme=tokyonight)](https://github.com/Lucas1792003/waiyanpaing.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Software-Testing-Car-Rental-Partial-Project&theme=tokyonight)](https://github.com/Lucas1792003/Software-Testing-Car-Rental-Partial-Project)
