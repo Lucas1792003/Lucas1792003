@@ -163,16 +163,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&langs_count=6&card_width=380&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&line_height=24" alt="GitHub Stats" height="200" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&card_width=420&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" /> </p>
 
 ---
 
