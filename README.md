@@ -162,13 +162,47 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&langs_count=6&card_width=380&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lucas1792003&theme=tokyonight)
+
+---
+
+<h2 align="center">🧩 LeetCode</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/Lucas1792003/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/Lucas1792003?theme=dark&font=Righteous&ext=heatmap&radius=10&border=0" alt="LeetCode Card"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://leetcode-stats.vercel.app/api?username=Lucas1792003&theme=dark" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <!--<a href="https://leetcode.com/u/Lucas1792003/">LeetCode Profile</a> ·
+  <a href="https://leetcode.com/problemset/">Problemset</a> ·
+  <a href="https://leetcode.com/explore/">Explore</a>-->
+</div>
+
+
 
 ---
 
