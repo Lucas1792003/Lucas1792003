@@ -163,7 +163,24 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&line_height=24" alt="GitHub Stats" height="200" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&card_width=420&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" /> </p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Lucas1792003&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true" 
+        alt="GitHub Stats" 
+        height="200"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&card_width=420&theme=tokyonight&hide_border=true" 
+        alt="Top Languages" 
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -174,7 +191,7 @@
 
 <h2>🧩 LeetCode</h2>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
       <a href="https://leetcode.com/u/Lucas1792003/" target="_blank">
