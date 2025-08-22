@@ -172,7 +172,7 @@
 
 ---
 
-<h2 align="center">🧩 LeetCode</h2>
+<h2>🧩 LeetCode</h2>
 
 <table align="center">
   <tr>
