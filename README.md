@@ -171,7 +171,7 @@
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luphone04&layout=compact&card_width=420&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1792003&layout=compact&card_width=420&theme=tokyonight&hide_border=true" 
         alt="Top Languages" 
         height="200"
       />
