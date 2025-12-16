@@ -35,26 +35,56 @@
 ---
 
 ## 📚 Blogs & Links
-- 🌐 Portfolio: **[Portfolio (GitHub Pages)](https://lucas1792003.github.io/Portfolio-2025/)**
-- 🕹 Java/C# Games & more: **[All repositories](https://github.com/Lucas1792003?tab=repositories)**
+
+- 🌐 **Portfolio (GitHub Pages)**  
+  👉 https://lucas1792003.github.io/Portfolio-2025/
+
+- 🕹 **Java / C# / Web & more**  
+  👉 https://github.com/Lucas1792003?tab=repositories
 
 ---
 
 ## 📌 Latest Projects
-- 🔢 **Portfolio** → My latest Portfolio Page  
-  Live: https://lucas1792003.github.io/Portfolio-2025/  
-  Code: https://github.com/Lucas1792003/Portfolio-2025
-- 🔢 **MyatPwint** → live build & source  
-  Live: https://myatpwint-pre.netlify.app/  
-  Code: https://github.com/byte-squad-abac/myatpwint
-- 🐾 **Pawsitive** → pet-themed site (HTML/CSS) ⭐  
-  https://github.com/Lucas1792003/Pawsitive
-- 🌐 **waiyanpaing.github.io** → web app dev exercises / portfolio playground  
-  https://github.com/Lucas1792003/waiyanpaing.github.io
-- 🎮 **Game-dev-** → C# game-dev experiments  
-  https://github.com/Lucas1792003/Game-dev-
+
+### 🌟 Featured
+
+- 🎧 **MoodCast** — An aesthetic weather app with vibe and suggests things to do
+  🔗 Live: https://mood-cast.vercel.app/
+  💻 Code: https://github.com/Lucas1792003/MoodCast
   
-> More: · Birthday-Countdown · special-person · Fundamental-of-Programming (Jupyter) · Data-StructuresAlgorithms · Portfolio · OOCP-Java-
+- 🌐 **Portfolio 2025**  
+  🔗 Live: https://lucas1792003.github.io/Portfolio-2025/  
+  💻 Code: https://github.com/Lucas1792003/Portfolio-2025
+
+- 🧩 **MyatPwint** — live build & source  
+  🔗 Live: https://myatpwint-pre.netlify.app/  
+  💻 Code: https://github.com/byte-squad-abac/myatpwint
+
+---
+
+### 🛠 Other Projects
+- 🐾 **Pawsitive** — pet-themed site (HTML/CSS) ⭐  
+  💻 https://github.com/Lucas1792003/Pawsitive
+
+- 🌐 **waiyanpaing.github.io** — web dev exercises / playground  
+  💻 https://github.com/Lucas1792003/waiyanpaing.github.io
+
+- 🎮 **Game-dev-** — C# game-dev experiments  
+  💻 https://github.com/Lucas1792003/Game-dev-
+
+---
+
+<details>
+<summary>📦 <strong>More Projects</strong></summary>
+
+- Birthday-Countdown  
+- special-person  
+- Fundamental-of-Programming (Jupyter)  
+- Data-StructuresAlgorithms  
+- OOCP-Java  
+
+</details>
+
 
 ---
 
@@ -143,18 +173,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas1792003&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+<!--## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucas1792003&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ---
 
 ## 🌟 Highlight Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Portfolio-2025&theme=tokyonight)](https://github.com/Lucas1792003/Portfolio-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=MoodCast&theme=tokyonight)](https://github.com/Lucas1792003/MoodCast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=byte-squad-abac&repo=myatpwint&theme=tokyonight)](https://github.com/byte-squad-abac/myatpwint)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=waiyanpaing.github.io&theme=tokyonight)](https://github.com/Lucas1792003/waiyanpaing.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Software-Testing-Car-Rental-Partial-Project&theme=tokyonight)](https://github.com/Lucas1792003/Software-Testing-Car-Rental-Partial-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=Pawsitive&theme=tokyonight)](https://github.com/Lucas1792003/Pawsitive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas1792003&repo=birthday-Countdown&theme=tokyonight)](https://github.com/Lucas1792003/Birthday-Countdown)
+
 
 ---
 
@@ -182,8 +213,10 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Lucas1792003&theme=tokyonight)
+<!--## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lucas1792003&theme=tokyonight)-->
+
 
 ---
 
